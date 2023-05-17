@@ -9,7 +9,7 @@ To delete your data from MyMedicalCard on Android, please follow these steps:
 5. A confirmation message will appear asking if you want to delete your account. Confirm your decision to proceed.
 6. If prompted, re-enter your password to confirm the deletion.
 7. Once you have confirmed the deletion, all your data will be permanently deleted from our databases.
-8. Please note that the deletion process will comply with local privacy laws and the privacy policy outlined at [test1.com](https://test1.com).
+8. Please note that the deletion process will comply with local privacy laws and the privacy policy outlined at [blumotech.github.io/deletion.html](https://blumotech.github.io/deletion.html).
 9. If you require further assistance or have additional questions, feel free to contact our support team at [support@blumotech.com](mailto:support@blumotech.com).
 
 Please note that these instructions are specifically for the Android version of the MyMedicalCard app.
