@@ -61,7 +61,7 @@ While using Our Service, We may ask You to provide Us with certain personally id
 - Email address
 - First name and last name
 
-- Address, State, Province, ZIP/Postal code, City
+- State, Province, City
 
 
 - Usage Data
